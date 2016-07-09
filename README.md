@@ -1,2 +1,3 @@
-# squishy-ball-demo
-A physics simulation of squishy balls
+# [Squishy Ball Demo](http://drknotter.github.io/squishy-ball-demo)
+
+This is a demonstation of spring-based balls interacting in a box. I created this more as an exercise to familiarize myself with HTML5 canvas. Parameters of the system are controlled by clicking the "+" and "-" in the control box on the upper left. The "spring" and "friction" parameters control the spring constants and damping coefficients of the spring system that is created each time two balls contact. You can move a given ball by click-dragging on it. The sliders at the bottom were my initial attempts to create my own slider controls using HTML5 canvas.
